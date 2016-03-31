@@ -44,6 +44,12 @@ name:"conc_nombre"
 },
 {
 allowNull:true,
+creationOrderIndex:9,
+dataType:4,
+name:"proveedor_adn_id"
+},
+{
+allowNull:true,
 creationOrderIndex:6,
 dataType:4,
 name:"user_id"
