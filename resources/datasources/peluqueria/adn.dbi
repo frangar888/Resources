@@ -24,7 +24,8 @@ name:"adn_cat_iva"
 {
 allowNull:true,
 creationOrderIndex:5,
-dataType:4,
+dataType:12,
+length:45,
 name:"adn_doc_nro"
 },
 {
@@ -56,7 +57,7 @@ name:"adn_email_2"
 },
 {
 allowNull:true,
-creationOrderIndex:9,
+creationOrderIndex:8,
 dataType:93,
 name:"adn_fecha_nac"
 },
@@ -76,7 +77,9 @@ name:"adn_nombre"
 },
 {
 allowNull:true,
-creationOrderIndex:8,
+autoEnterSubType:0,
+autoEnterType:1,
+creationOrderIndex:9,
 dataType:12,
 length:45,
 name:"adn_observa"

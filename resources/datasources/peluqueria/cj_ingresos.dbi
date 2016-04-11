@@ -16,6 +16,13 @@ name:"caja_id"
 },
 {
 allowNull:true,
+creationOrderIndex:9,
+dataType:12,
+length:120,
+name:"cj_desc"
+},
+{
+allowNull:true,
 creationOrderIndex:1,
 dataType:93,
 name:"cj_ing_fecha"
