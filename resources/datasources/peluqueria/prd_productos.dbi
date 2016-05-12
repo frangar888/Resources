@@ -46,7 +46,7 @@ compatibleColumnTypes:"[[3,12,2]]",
 creationOrderIndex:16,
 dataType:3,
 length:12,
-name:"prd_comision_porc",
+name:"prd_comision_imp",
 scale:2
 },
 {
