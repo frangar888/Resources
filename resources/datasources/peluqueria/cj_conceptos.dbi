@@ -1,5 +1,11 @@
 columns:[
 {
+allowNull:true,
+creationOrderIndex:4,
+dataType:4,
+name:"admite_manual"
+},
+{
 allowNull:false,
 autoEnterSubType:2,
 autoEnterType:2,
